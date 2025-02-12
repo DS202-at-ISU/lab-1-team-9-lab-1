@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/yvH536po)
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
@@ -17,3 +16,72 @@ All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
+
+# **Process**
+
+## 12.1
+
+- Ryan’s note: I had no issue’s with doing any of the prerequisites.  
+- Kaitlyn’s note: I already had a GitHub account so I just had to log in
+  to that and then join the classroom and our repository. I checked if
+  all of my software was updated and it was. I know I can push/pull to
+  Github from prior classes.  
+- Deo’s Note: I was asked to login to git but no other issues.
+
+## 12.2
+
+- Ryan’s note: I was able to do all the steps easily.  
+- Kaitlyn’s note: Our team’s repository was already made. Repositories
+  are created by clicking on the green new button, and then repository.
+  Ours was made in the GitHub classroom so we named it according to our
+  assignment and team number. Since we already had a repository, I used
+  it to test and commit.  
+- Deo’s Note: I had no issues with this process.
+
+## 12.3
+
+- Zach Malo: no Issues with cloning repository  
+- Ryan’s note: I was able to do it all easily, but I did change where I
+  saved my project locally.  
+- Kaitlyn’s note: I followed the instruction’s and created a new RStudio
+  project using the https link to our GitHub repo. I kept the default
+  name but I created the project before taking note of the directory it
+  was saved under so I had to find that myself afterwards once I read
+  those instructions.
+- Deo’s Note: lost track of where the project was saved, but no other
+  issues.
+
+## 12.4
+
+- Zach Malo: can Make local changes  
+- Ryan’s note: It took me a moment to find the Git tab because I
+  rearranged my pane layout, but once I found it (bottom left corner for
+  me) I was able to do it all easily.  
+- Kaitlyn’s note: Took me a bit to just find the markdown file on the
+  right panel of RStudio, but once I did I successfully wrote a message
+  in the file and then committed and pushed.  
+- Deo’s Note: was able to commit easily
+
+## 12.5
+
+- Zach Malo: I have so many issues with pushing so as someone else
+  pushing first and then not being able to push it  
+- Ryan’s note: When I hit the green “Push” button I received an error
+  where I had to hit “Pull” first and then I was able to hit “Push” and
+  it worked as desired.  
+- Kaitlyn’s note: Originally, with my test it worked fine but after a
+  lot of pushes it did not allow me to pull and I didn’t know how to
+  rebase in RStudio. So, I tried pushing on desktop and that worked,
+  then I deleted my project, and recreated it on RStudio and now it is
+  all working fine. I think I just needed to pull before pushing last
+  time.
+- Deo’s Note: Ran into an error when pushing but i pressed pull then ran
+  push and it worked.
+
+## 12.6
+
+- Zach Malo: Yes  
+- Ryan’s note: I was able to see the new line and the commit message.  
+- Kaitlyn’s note: I can see my changes on the repository, it looks
+  good!  
+- Deo’s Note: No issues with this process
