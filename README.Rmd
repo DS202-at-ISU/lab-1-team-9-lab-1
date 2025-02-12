@@ -17,17 +17,12 @@ Include your answers in this document (Rmd file). Make sure that it knits proper
 
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed.
 Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
-<<<<<<< HEAD
+
 
 
 **Process**
 =======
-<<<<<<< HEAD
 
-
-
-
-<<<<<<< HEAD  
 
 ## 12.1  
 - Ryan's note: I had no issue's with doing any of the prerequisites.  
@@ -67,11 +62,5 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 - Deo's Note: No issues with this process
 
 
-=======
-- ran commit
-- ran Push but ran into an error
-- ran Pull then Push to fix the error
-
-=======
 
 
