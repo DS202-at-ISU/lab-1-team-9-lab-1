@@ -53,6 +53,7 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 - Ryan's note: When I hit the green "Push" button I received an error where I had to hit "Pull" first and then I was able to hit "Push" and it worked as desired.   
 - Kaitlyn's note: Originally, with my test it worked fine but after a lot of pushes it did not allow me to pull and I didn't know how to rebase in RStudio. So, I tried pushing on desktop and that worked, then I deleted my project, and recreated it on RStudio and now it is all working fine. I think I just needed to pull before pushing last time.
 - Deo's Note: Ran into an error when pushing but i pressed pull then ran push and it worked.  
+
 ## 12.6  
 - Zach Malo: Yes  
 - Ryan's note: I was able to see the new line and the commit message.  
