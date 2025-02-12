@@ -17,3 +17,29 @@ Include your answers in this document (Rmd file). Make sure that it knits proper
 
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed.
 Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
+
+
+**Process**
+- copied repository link
+- cloned repository to my computer
+- ran into a few issues trying to locate where the project was saved locally
+- found it was saved in documents
+
+12.1
+- Ryan's note: I had no issue's with doing any of the prerequisites.
+
+12.2
+- Ryan's note: I was able to do all the steps easily.
+
+12.3
+- Ryan's note: I was able to do it all easily, but I did change where I saved my project locally.
+
+12.4
+- Ryan's note: It took me a moment to find the Git tab because I rearranged my pane layout, but once I found it (bottom left corner for me) I was able to do it all easily.
+
+12.5
+- Ryan's note: When I hit the green "Push" button I received an error where I had to hit "Pull" first and then I was abel to hit "Push" and it worked as desired.
+
+12.6
+- Ryan's note: I was able to see the new line and the commit message. 
+
