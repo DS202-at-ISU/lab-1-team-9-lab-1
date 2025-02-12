@@ -36,7 +36,6 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 - Deo's Note: I had no issues with this process.
 
 ## 12.3  
-
 - Zach Malo: no Issues with cloning repository  
 - Ryan's note: I was able to do it all easily, but I did change where I saved my project locally.  
 - Kaitlyn’s note: I followed the instruction’s and created a new RStudio project using the https link to our GitHub repo. I kept the default name but I created the project before taking note of the directory it was saved under so I had to find that myself afterwards once I read those instructions. 
@@ -44,7 +43,6 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 
 ## 12.4  
-
 - Zach Malo: can Make local changes  
 - Ryan's note: It took me a moment to find the Git tab because I rearranged my pane layout, but once I found it (bottom left corner for me) I was able to do it all easily.    
 - Kaitlyn’s note: Took me a bit to just find the markdown file on the right panel of RStudio, but once I did I successfully wrote a message in the file and then committed and pushed.   
@@ -60,12 +58,7 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 - Ryan's note: I was able to see the new line and the commit message.  
 - Kaitlyn's note: I can see my changes on the repository, it looks good!  
 - Deo's Note: No issues with this process
-<<<<<<< HEAD
-=======
-=======
 
-
->>>>>>> efd405699f98543ce9d29ae9ffa89b28591b9beb
 
 
 
