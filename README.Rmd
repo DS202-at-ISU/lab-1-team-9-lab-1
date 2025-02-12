@@ -25,11 +25,7 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 <<<<<<< HEAD
 
 
-**Deo's Process**
-- copied repository link
-- cloned repository to my computer
-- ran into a few issues trying to locate where the project was saved locally
-- found it was saved in documents
+
 
 12.1
 - Ryan's note: I had no issue's with doing any of the prerequisites.
