@@ -49,9 +49,11 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 12.4
 - Ryan's note: It took me a moment to find the Git tab because I rearranged my pane layout, but once I found it (bottom left corner for me) I was able to do it all easily.
 - Kaitlyn’s note: Took me a bit to just find the markdown file on the right panel of RStudio, but once I did I successfully wrote a message in the file and then committed and pushed.
+- Deo's Note: was able to commit easily
 
 12.5
 - Ryan's note: When I hit the green "Push" button I received an error where I had to hit "Pull" first and then I was abel to hit "Push" and it worked as desired.
+- Deo's Note: Ran into an error when pushing but i pressed pull then ran push and it worked.
 
 
 12.6
