@@ -54,8 +54,7 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 ## 12.6  
 - Zach Malo: Yes  
-- Ryan's note: I was able to see the new line and the commit message.
-<<<<<<< HEAD
+- Ryan's note: I was able to see the new line and the commit message.  
 - Kaitlyn's note: I can see my changes on the repository, it looks good!  
 
 =======
