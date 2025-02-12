@@ -63,7 +63,7 @@ Zach Malo: can Make local changes
 
 Zach Malo: I have so many issues with pushing so as someone else pushing first and then not being able to push it
 
-##12.6 
+## 12.6 
 
 Zach Malo: Yes
 =======
