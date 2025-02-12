@@ -34,17 +34,17 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 12.1
 - Ryan's note: I had no issue's with doing any of the prerequisites.
 - Kaitlyn’s note: I already had a GitHub account so I just had to log in to that and then join the classroom and our repository. I checked if all of my software was updated and it was. I know I can push/pull to Github from prior classes.
-
+- Deo's Note: I was asked to login to git but no other issues.
 
 12.2
 - Ryan's note: I was able to do all the steps easily.
 - Kaitlyn’s note: Our team’s repository was already made. Repositories are created by clicking on the green new button, and then repository. Ours was made in the GitHub classroom so we named it according to our assignment and team number. Since we already had a repository, I used it to test and commit. 
-
+- Deo's Note: I had no issues with this process.
 
 12.3
 - Ryan's note: I was able to do it all easily, but I did change where I saved my project locally.
 - Kaitlyn’s note: I followed the instruction’s and created a new RStudio project using the https link to our GitHub repo. I kept the default name but I created the project before taking note of the directory it was saved under so I had to find that myself afterwards once I read those instructions. 
-
+- Deo's Note: lost track of where the project was saved, but no other issues.
 
 12.4
 - Ryan's note: It took me a moment to find the Git tab because I rearranged my pane layout, but once I found it (bottom left corner for me) I was able to do it all easily.
