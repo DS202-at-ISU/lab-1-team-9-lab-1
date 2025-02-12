@@ -20,12 +20,14 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 <<<<<<< HEAD
 
 
-**Process**
+**Deo's Process**
 - copied repository link
 - cloned repository to my computer
 - ran into a few issues trying to locate where the project was saved locally
 - found it was saved in documents
-- ran commit, then pull, then push to update
+- ran commit
+- ran Push but ran into an error
+- ran Pull then Push to fix the error
 
 =======
 >>>>>>> 630b0f00aaf31086e2e1f86c23949884106e9d87
