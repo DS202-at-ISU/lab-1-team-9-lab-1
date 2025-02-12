@@ -50,6 +50,22 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 12.6
 - I was able to see the new line and the commit message.
 
+## 12.3
+
+Zach Malo: no Issues with cloning repository
+
+## 12.4 
+
+Zach Malo: can Make local changes
+
+## 12.5
+
+
+Zach Malo: I have so many issues with pushing so as someone else pushing first and then not being able to push it
+
+##12.6 
+
+Zach Malo: Yes
 =======
 - ran commit
 - ran Push but ran into an error
